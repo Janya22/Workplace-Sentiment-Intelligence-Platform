@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+textblob
+vaderSentiment
+beautifulsoup4
+wordcloud
+pyLDAvis
+contractions
